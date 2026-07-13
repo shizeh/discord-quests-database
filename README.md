@@ -70,6 +70,16 @@ Fallout4/
 
 Start the renamed executable and leave it running in the background.
 
+# ⚠️ IMPORTANT
+
+If the executable is not detected, try **removing the `.exe` extension** from its name.
+
+**Example:**
+- ❌ `FortniteClient-Win64-Shipping.exe`
+- ✅ `FortniteClient-Win64-Shipping`
+
+➡️ Modify **only the file name**. Do not change the rest of the path (`Fortnite\Win64\`).
+
 ---
 
 ## 5. Accept the Discord Quest

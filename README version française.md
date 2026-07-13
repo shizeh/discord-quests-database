@@ -70,6 +70,16 @@ Fallout4/
 
 Exécutez le programme renommé et laissez-le fonctionner en arrière-plan.
 
+# ⚠️ IMPORTANT
+
+Si l'exécutable n'est pas détecté, essayez de **retirer l'extension `.exe`** de son nom.
+
+**Exemple :**
+- ❌ `FortniteClient-Win64-Shipping.exe`
+- ✅ `FortniteClient-Win64-Shipping`
+
+➡️ Modifiez **uniquement le nom du fichier**, ne touchez pas au reste du chemin (`Fortnite\Win64\`).
+
 ---
 
 ## 5. Accepter la quête Discord

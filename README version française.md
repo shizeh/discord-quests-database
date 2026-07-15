@@ -127,6 +127,7 @@ Les chemins ci-dessous correspondent aux noms d'exécutables et aux structures d
 | Comet AI Browser | `Perplexity\Comet\Application\comet.exe` |
 | Delta Force | `Win64\DeltaForceClient-Win64-Shipping.exe` |
 | Destiny 2 | `Destiny 2\destiny2.exe` |
+| EA SPORTS FC 26 | `Deskstop\EA SPORTS FC 26\FC26.exe` |
 | Fallout 4 | `Fallout4\Fallout4.exe` |
 | Fallout 76 | `Fallout76\Fallout76.exe` |
 | Fortnite | `Win64\FortniteClient-Win64-Shipping.exe` |

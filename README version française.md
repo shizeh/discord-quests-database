@@ -141,6 +141,7 @@ Les chemins ci-dessous correspondent aux noms d'exécutables et aux structures d
 | PUBG | `Win64\TslGame.exe` |
 | RAID: Shadow Legends | `build\Raid.exe` |
 | Risk of Rain 2 | `Risk of Rain 2\Risk of Rain 2.exe` |
+| Roblox | `Win64\Roblox.exe` |
 | Storm Lancers Demo | `Storm Lancers Demo\StormLancersDemo.exe` |
 | Summoners War | `Summoners War\SummonersWar.exe` |
 | Terminull Brigade | `Win64\Rouge-Win64-Shipping.exe` |

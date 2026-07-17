@@ -145,6 +145,7 @@ Les chemins ci-dessous correspondent aux noms d'exécutables et aux structures d
 | Roblox | `Win64\Roblox.exe` |
 | Storm Lancers Demo | `Storm Lancers Demo\StormLancersDemo.exe` |
 | Summoners War | `Summoners War\SummonersWar.exe` |
+| STALZONE | `bin\stalcraftw.exe` |
 | Terminull Brigade | `Win64\Rouge-Win64-Shipping.exe` |
 | Torchlight: Infinite | `Win64\torchlight_infinite.exe` |
 | Valorant | `Win64\Valorant-Win64-Shipping.exe` |

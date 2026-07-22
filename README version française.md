@@ -117,42 +117,61 @@ Ces quêtes peuvent nécessiter que le dossier d'installation Steam du jeu exist
 
 Les chemins ci-dessous correspondent aux noms d'exécutables et aux structures de dossiers **les plus couramment utilisés par les Discord Quests**.
 
-| Jeu | Chemin attendu |
-|------|----------------|
-| 2XKO | `2XKO\Live\Lion\Binaries\Win64\Lion-Win64-Shipping.exe` |
-| Arc Raiders | `Arc Raiders\PioneerGame.exe` |
-| Arena Breakout: Infinite | `Win64\UAGame.exe` |
-| Arknights: Endfield | `Game\Endfield.exe` |
-| Blue Protocol: Star Resonance | `Win64\bpsr.exe` |
-| Comet AI Browser | `Perplexity\Comet\Application\comet.exe` |
-| Delta Force | `Win64\DeltaForceClient-Win64-Shipping.exe` |
-| Destiny 2 | `Destiny 2\destiny2.exe` |
-| EA SPORTS FC 26 | `Deskstop\EA SPORTS FC 26\FC26.exe` |
-| Fallout 4 | `Fallout4\Fallout4.exe` |
-| Fallout 76 | `Fallout76\Fallout76.exe` |
-| Fortnite | `Win64\FortniteClient-Win64-Shipping.exe` |
-| Grounded 2 | `WinGRTS\Grounded2-WinGRTS-Shipping.exe` |
-| Highguard | `Win64\HighguardClient-Win64-Shipping.exe` |
-| Hunt: Showdown 1896 | `win_x64\HuntGame.exe` |
-| Marvel Rivals | `Win64\Marvel-Win64-Shipping.exe` |
-| Once Human | `Once Human\Once_Human.exe` |
-| Opera GX | `Opera GX\opera.exe` |
-| Path of Exile 2 | `Grinding Gear Games\Path of Exile 2\pathofexile.exe` |
-| Pragmata | `PRAGMATA SKETCHBOOK\PRAGMATA_SKETCHBOOK.exe` |
-| PUBG | `Win64\TslGame.exe` |
-| RAID: Shadow Legends | `build\Raid.exe` |
-| Risk of Rain 2 | `Risk of Rain 2\Risk of Rain 2.exe` |
-| Roblox | `Win64\Roblox.exe` |
-| Storm Lancers Demo | `Storm Lancers Demo\StormLancersDemo.exe` |
-| Summoners War | `Summoners War\SummonersWar.exe` |
-| STALZONE | `bin\stalcraftw.exe` |
-| Terminull Brigade | `Win64\Rouge-Win64-Shipping.exe` |
-| Torchlight: Infinite | `Win64\torchlight_infinite.exe` |
-| Valorant | `Win64\Valorant-Win64-Shipping.exe` |
-| Vindictus | `Vindictus\Vindictus.exe` |
-| Where Winds Meet | `Win64\wwm.exe` |
-| World of Warcraft: Midnight | `World of Warcraft\_retail_\Wow.exe` |
-| Wuthering Waves | `Win64\Wuthering Waves.exe` |
+| Game | Executable Path |
+|------|-----------------|
+| 2XKO | `..\2XKO\Live\Lion\Binaries\Win64\Lion-Win64-Shipping.exe` |
+| Arc Raiders | `..\Arc Raiders\PioneerGame.exe` |
+| Arena Breakout Infinite | `..\Arena Breakout Infinite\ABInfinite\Binaries\Win64\UAGame.exe` |
+| Arknights Endfield | `..\Arknights Endfield\EndField Game\Endfield.exe` |
+| Battlefield 6 | `..\Battlefield 6\bf6.exe` |
+| Blue Protocol Star Resonance | `..\Blue Protocol Star Resonance\bpsr\BPSR_STEAM.exe` |
+| Comet Browser | `..\Comet\Perplexity\Comet\Application\comet.exe` |
+| Delta Force | `..\Delta Force\Game\DeltaForce\Binaries\Win64\DeltaForceClient-Win64-Shipping.exe` |
+| Destiny 2 | `..\Destiny 2\destiny2.exe` |
+| Duet Night Abyss | `..\Duet Night Abyss\EM-Win64-Shipping.exe` |
+| EA Sports FC 26 | `..\EA SPORTS FC 26\FC26.exe` |
+| EMPULSE | `..\EMPULSE Demo\Orion\Binaries\Win64\OrionClient-Win64-Shipping.exe` |
+| Enginefall | `..\Enginefall Demo\Coltrane\Binaries\Win64\ColtraneClient-Win64-Shipping.exe` |
+| Escape The Backrooms | `..\Win64\Backrooms-Win64-Shipping.exe` |
+| Fallout 4 | `..\Fallout 4\Fallout4.exe` |
+| Fallout 76 | `..\Fallout76\Fallout76.exe` |
+| Fortnite | `..\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe` |
+| Genshin Impact | `..\Genshin Impact\Genshin Impact game\GenshinImpact.exe` |
+| GearUP | `..\Gearup_ball.exe` |
+| GODDESS OF VICTORY: NIKKE | `..\NIKKE\NIKKE\Game\nikke.exe` |
+| Grounded 2 | `..\Grounded 2\WinGRTS\Grounded2-WinGRTS-Shipping.exe` |
+| Highguard | `..\Highguard\Win64\HighguardClient-Win64-Shipping.exe` |
+| Honkai: Star Rail | `..\Star Rail\Games\StarRail.exe` |
+| Hunt: Showdown 1896 | `..\Hunt Showdown\bin\win_x64\HuntGame.exe` |
+| Marvel Rivals | `..\MarvelRivals\MarvelRivals_Launcher.exe` |
+| NTE: Neverness to Everness | `..\Neverness To Everness\Client\WindowsNoEditor\HT\Binaries\Win64\HTGame.exe` |
+| OldSchool RuneScape | `..\win64\osclient.exe` |
+| Once Human | `..\Once Human\ONCE_HUMAN.exe` |
+| Opera | `..\Opera GX\opera.exe` |
+| Path of Exile 2 | `..\Grinding Gear Games\Path of Exile 2\pathofexile.exe` |
+| PUBG: Battlegrounds | `..\PUBG\TslGame\Binaries\Win64` |
+| Pragmata | `..\PRAGMATA SKETCHBOOK\PRAGMATA_SKETCHBOOK.exe` |
+| RAID: Shadow Legends | `..\RAID Shadow Legends\Raid.exe`<br>`..\build\Raid.exe` |
+| Risk of Rain 2 | `..\Risk of Rain 2\Risk of Rain 2.exe` |
+| Roblox | `..\Roblox\Versions\version-xxxxxxxx\RobloxPlayerBeta.exe` |
+| Rune Dice | `..\Rune Dice\Rune Dice.exe` |
+| RuneScape | `..\win64\runescape.exe` |
+| Shift At Midnight *(Steam Demo Required)* | `..\Shift At Midnight Demo\ShiftAtMidnight.exe` |
+| skate. | `..\skate\skate.exe` |
+| STALZONE | `..\bin\stalcraftw.exe` |
+| Storm Lancers *(Steam Demo Required)* | `..\Storm Lancers Demo\StormLancersDemo.exe` |
+| Summoners War | `..\Summoners War\common\Summoners War\SummonersWar.exe` |
+| Terminull Brigade | `..\TerminullBrigade\Project Rogueteers\Rogueteers\Binaries\Win64\Rouge-Win64-Shipping.exe` |
+| The Mound: Omen of Cthulhu | `..\The Mound Omen of Cthulhu\Binaries\Win64\TheMound-Win64-Shipping.exe` |
+| Torchlight Infinite | `..\Torchlight_Infinite\UE_game\Binaries\Win64\Torchlight_Infinite.exe` |
+| Valorant | `..\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64\VALORANT-Win64-Shipping.exe` |
+| Vindictus | `..\Vindictus\Vindictus_x64` |
+| Where Winds Meet | `..\wwm_standard\Engine\Binaries\Win64r\wwm.exe` |
+| World of Tanks: HEAT | `..\WoT HEAT\wgcs_api.exe` |
+| World of Warcraft: Midnight | `..\World of Warcraft\_retail_\Wow.exe` |
+| Wuthering Waves | `..\Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\Wuthering Waves.exe` |
+| Yu-Gi-Oh! Master Duel | `..\Yu-Gi-Oh! Master Duel\masterduel.exe` |
+| Zenless Zone Zero | `..\ZenlessZoneZero Game\ZenlessZoneZero.exe` |
 
 ---
 

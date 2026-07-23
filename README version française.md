@@ -164,6 +164,7 @@ Les chemins ci-dessous correspondent aux noms d'exécutables et aux structures d
 | Terminull Brigade | `..\TerminullBrigade\Project Rogueteers\Rogueteers\Binaries\Win64\Rouge-Win64-Shipping.exe` |
 | The Mound: Omen of Cthulhu | `..\The Mound Omen of Cthulhu\Binaries\Win64\TheMound-Win64-Shipping.exe` |
 | Torchlight Infinite | `..\Torchlight_Infinite\UE_game\Binaries\Win64\Torchlight_Infinite.exe` |
+| Umamusume: Pretty Derby | `..\UmamusumePrettyDerby\UmamusumePrettyDerby.exe` |
 | Valorant | `..\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64\VALORANT-Win64-Shipping.exe` |
 | Vindictus | `..\Vindictus\Vindictus_x64` |
 | Where Winds Meet | `..\wwm_standard\Engine\Binaries\Win64r\wwm.exe` |

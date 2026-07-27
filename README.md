@@ -133,6 +133,7 @@ The paths below are the executable names and folder structures **most commonly u
 | EMPULSE | `..\EMPULSE Demo\Orion\Binaries\Win64\OrionClient-Win64-Shipping.exe` |
 | Enginefall | `..\Enginefall Demo\Coltrane\Binaries\Win64\ColtraneClient-Win64-Shipping.exe` |
 | Escape The Backrooms | `..\Win64\Backrooms-Win64-Shipping.exe` |
+| EVE Online | `..\Eve Online\exefile.exe` |
 | Fallout 4 | `..\Fallout 4\Fallout4.exe` |
 | Fallout 76 | `..\Fallout76\Fallout76.exe` |
 | Fortnite | `..\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe` |

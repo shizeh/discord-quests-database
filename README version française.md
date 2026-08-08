@@ -155,6 +155,7 @@ Les chemins ci-dessous correspondent aux noms d'exécutables et aux structures d
 | RAID: Shadow Legends | `..\RAID Shadow Legends\Raid.exe`<br>`..\build\Raid.exe` |
 | Risk of Rain 2 | `..\Risk of Rain 2\Risk of Rain 2.exe` |
 | Roblox | `..\Roblox\Versions\version-xxxxxxxx\RobloxPlayerBeta.exe` |
+| Ragnarok: The New World | `..\roworld\game.exe` |
 | Rune Dice | `..\Rune Dice\Rune Dice.exe` |
 | RuneScape | `..\win64\runescape.exe` |
 | Shift At Midnight *(Steam Demo Required)* | `..\Shift At Midnight Demo\ShiftAtMidnight.exe` |
